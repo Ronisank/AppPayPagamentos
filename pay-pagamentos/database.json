@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "fullname": "Roni Rodrigues ",
+      "contact": "123456789",
+      "email": "fulano@fulano.com",
+      "number_rg": "98765423",
+      "cpf": "12345678911",
+      "password": "senha123",
+      "address": {
+        "cep": "88107447",
+        "street": "Josemar José Schimidt ",
+        "city": "São José ",
+        "state": "Santa Catarina",
+        "region": "Forquilhas ",
+        "number": "76",
+        "complement": "Casa 2 "
+      },
+      "billing_day": "2022-09-28",
+      "id": 1
+    }
+  ],
+  "invoices": [
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "25/09/2022",
+      "code": 1234534,
+      "user_id": 545434326,
+      "cashback": 23.023,
+      "id": 6
+    }
+  ],
+  "debts": [
+    {
+      "id": 545434326,
+      "amount": 30.23,
+      "recipient": "DevInHouse Ltda"
+    },
+    {
+      "id": 1234534,
+      "amount": 230.23,
+      "recipient": "EPP Energias do Mundo"
+    }
+  ]
+}
