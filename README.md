@@ -18,6 +18,16 @@ Project for a mobile application in the Fintech segment, he has a new project ca
 
 Projeto para um aplicativo mobile no segmento Fintech, está com um projeto novo intitulado PAY, um aplicativo audacioso focado no pagamento de boletos e ganho de cashback. Com esse novo app, os usuários poderão pagar seus boletos sem sair de casa e além de acumular um bom valor de cashback($).
 
+#### **Colocando em prática os aprendizados em:**
+
+* Componentes react-native: Text, View, SafeAreaView, ScrollView, TextInput, Switch, Button, TouchableOpacity, estados, useState, useEffect
+
+* Navegação:  Navigator Container, Stack Navigator, Tab Navigator
+
+* Consumo de apis:  fetch, método POST, método GET, método DELETE, método PATCH, método PUT, body, headers, query params
+
+* Componentes expo: BarCodeScanner, Lottie, StatusBar, Picker, Calendar
+
 
 ***Tecnologia usadas no desenvolvimento do aplicativo:***
 
